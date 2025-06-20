@@ -117,5 +117,9 @@ When we think about other people’s work, perfectionism can turn us into harsh 
 
 It might seem a little strange, but code is about people. We write code for others. Programming is both technically and socially challenging. Therefore, we need to constantly improve our communication skills. A good programmer communicates well — clearly, frequently, respectfully, at the right level, and using the appropriate method.
 
+## References
+
+Goodliffe, Pete. *Becoming a Better Programmer*. O'Reilly Media, 2014.
+
 
 ***That’s all folks!*** 👋
