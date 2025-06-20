@@ -54,3 +54,7 @@ params:
 
   editURL:
     enable: false
+
+  googleTagManager:
+    enable: true
+    id: "GTM-N668F24L"
