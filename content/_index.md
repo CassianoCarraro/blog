@@ -1,17 +1,10 @@
 ---
-title: My Site
-toc: false
+toc: true
 ---
 
-This is the landing page.
+Welcome to my personal website where I share my thoughts and experiences about world of software development and technology.
 
-## Explore
+## Posts
 
-{{< cards >}}
-  {{< card link="docs" title="Docs" icon="book-open" >}}
-  {{< card link="about" title="About" icon="user" >}}
-{{< /cards >}}
-
-## Documentation
-
-For more information, visit [Hextra](https://imfing.github.io/hextra).
+### 2025, Jun
+- [How to Become a Better Programmer](how-to-become-a-better-programmer)
