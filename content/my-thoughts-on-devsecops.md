@@ -58,12 +58,13 @@ quadrantChart
     x-axis Visible --> Invisible
     y-axis Negative Value --> Positive Value
     Features: [0.25, 0.75]
-    Software Architecture: [0.75, 0.90]
-    Non-functional Requirements: [0.75, 0.80]
-    Development Process: [0.75, 0.70]
+    Software Architecture: [0.75, 0.97]
+    Non-functional Requirements: [0.75, 0.87]
+    Development Process: [0.75, 0.77]
+    Security: [0.75, 0.67]
+    Etc...: [0.75, 0.57]
     Techinical Debt: [0.75, 0.25]
     Issues: [0.25, 0.25]
-
 ```
 
 ## Finding Ways to Improve Your Environment
