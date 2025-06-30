@@ -7,4 +7,5 @@ Welcome to my personal website where I share my thoughts and experiences about w
 ## Posts
 
 ### 2025, Jun
+- [My Thoughts on DevSecOps](my-thoughts-on-devsecops)
 - [How to Become a Better Programmer](how-to-become-a-better-programmer)
