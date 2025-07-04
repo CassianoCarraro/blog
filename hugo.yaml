@@ -1,6 +1,8 @@
 # Hugo configuration file
 title: Cassiano's Blog
 
+enableRobotsTXT: true
+
 # import hextra as module
 module:
   imports:
