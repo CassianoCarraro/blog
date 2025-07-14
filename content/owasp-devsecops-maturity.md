@@ -4,7 +4,7 @@ date: 2025-07-14
 ---
 *14 July 2025*
 
-Continuing with the topic of DevSecOps, as discussed in the [last post](my-thoughts-on-devsecops), today I'm sharing a framework that helps organizations systematically improve practices throughout the software development lifecycle. With this framework, we can assess the current maturity level of a team or company and use that insight as a guide for planning improvement actions.
+Continuing with the topic of DevSecOps, as discussed in the [last post](/blog/my-thoughts-on-devsecops), today I'm sharing a framework that helps organizations systematically improve practices throughout the software development lifecycle. With this framework, we can assess the current maturity level of a team or company and use that insight as a guide for planning improvement actions.
 
 DevSecOps maturity represents an organization's ability to embed security practices into its development and operations processes. Mature DevSecOps organizations integrate security from the very beginning of software development.
 
