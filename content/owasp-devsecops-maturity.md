@@ -69,7 +69,7 @@ In my perspective, the following elements lead companies toward a mature DevSecO
 
 The OWASP DevSecOps Maturity Model provides a structured approach to improving security practices in software development. By understanding and implementing this model, organizations can systematically enhance their security posture while maintaining development efficiency. The journey to DevSecOps maturity is continuous, requiring commitment, resources, and cultural change, but the benefits in terms of reduced risk, improved security, and enhanced operational efficiency make it a worthwhile investment.
 
-## References
+## Suggested Reading
 
 OWASP Foundation. *OWASP DevSecOps Maturity Model*. 2024. OWASP, https://owasp.org/www-project-devsecops-maturity-model/. Accessed 10 July 2025.
 
