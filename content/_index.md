@@ -6,6 +6,10 @@ Welcome to my personal website where I share my thoughts and experiences about w
 
 ## Posts
 
+### 2026, Apr
+
+- [How I've been using Pareto's Principle to prioritize my efforts](paretos-principle)
+
 ### 2025, Sep
 
 - [DevSecOps Certification Programs](devsecops-certification-programs)
